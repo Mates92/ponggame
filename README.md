@@ -6,6 +6,6 @@
 
 
 ## disclaimer
-the game is not perfect and is not optimized
-I am aware of the bugs
+the game is not perfect and is not optimized <br>
+I am aware of the bugs <br>
 I made this because somebody said i would not
